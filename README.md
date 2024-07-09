@@ -1,2 +1,4 @@
 # Generative_AI
-Generative AI is a type of artificial intelligence technology that can produce various types of content, including text, imagery, audio and synthetic data.
+Implementing RAG Using weather Information from Local Weather Website using Basic Webscrapping Techniques.
+Create Your Own API code Open AI Website For Open AI GPT Model and replace the API code 3rd Code Cell. 
+You can also use LM studio to run your Own Language model Remotly and access it from Local Server.
